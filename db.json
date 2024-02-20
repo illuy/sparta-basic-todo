@@ -1,11 +1,18 @@
 {
-    "todos": [
-      {
-        "id": 1,
-        "title": "Study React",
-        "content": "Learn about components",
-        "deadline": "2024-01-31",
-        "isDone": false
-      }
-    ]
-  }
+  "todos": [
+    {
+      "id": "1",
+      "title": "Study React",
+      "content": "Learn about components",
+      "deadline": "2024-01-31",
+      "isDone": false
+    },
+    {
+      "id": "ddf231ba-24d7-4ea2-93e2-4151ac10ce93",
+      "title": "123123",
+      "content": "123123",
+      "deadline": "2024-02-20",
+      "isDone": false
+    }
+  ]
+}
